@@ -22,6 +22,14 @@ Configurando navegação com stack navigator (estrategia de navegação rotas de
 
 ```
 
+Configurando navegacação com tab navigation
+
+```bash
+
+ npm install @react-navigation/bottom-tabs
+
+```
+
 ## Stack utilizada
 
 **Front-end:**
@@ -32,4 +40,4 @@ Configurando navegação com stack navigator (estrategia de navegação rotas de
 - expo google fonts = https://docs.expo.dev/guides/using-custom-fonts/
 - NativeBase = https://nativebase.io/
 - svg transformer = https://github.com/kristerkari/react-native-svg-transformer
-- navegação = https://reactnavigation.org/ e https://reactnavigation.org/docs/hello-react-navigation
+- navegação = https://reactnavigation.org/ e https://reactnavigation.org/docs/hello-react-navigation e
