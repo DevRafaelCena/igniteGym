@@ -18,3 +18,5 @@ Iniciando novo projeto Expo
 - Expo = https://docs.expo.dev/
 - React Native = https://reactnative.dev/
 - babel module = https://www.npmjs.com/package/babel-plugin-module-resolver
+- expo google fonts = https://docs.expo.dev/guides/using-custom-fonts/
+- NativeBase = https://nativebase.io/
