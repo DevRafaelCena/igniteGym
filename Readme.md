@@ -20,3 +20,4 @@ Iniciando novo projeto Expo
 - babel module = https://www.npmjs.com/package/babel-plugin-module-resolver
 - expo google fonts = https://docs.expo.dev/guides/using-custom-fonts/
 - NativeBase = https://nativebase.io/
+- svg transformer = https://github.com/kristerkari/react-native-svg-transformer
