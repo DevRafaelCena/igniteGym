@@ -40,4 +40,5 @@ Configurando navegacação com tab navigation
 - expo google fonts = https://docs.expo.dev/guides/using-custom-fonts/
 - NativeBase = https://nativebase.io/
 - svg transformer = https://github.com/kristerkari/react-native-svg-transformer
-- navegação = https://reactnavigation.org/ e https://reactnavigation.org/docs/hello-react-navigation e
+- navegação = https://reactnavigation.org/ e https://reactnavigation.org/docs/hello-react-navigation
+- Form = https://react-hook-form.com/
